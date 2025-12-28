@@ -1,4 +1,7 @@
 # 💫 About Me:
+## Hi 👋 I'm Muhammad Awais Dawood  
+
+**Front-End & WordPress Developer | Software Engineering Student | SEO-Focused Web Creator**
 🔭 I’m currently working on  <br>Front-End & WordPress projects, focusing on responsive design and SEO optimization  <br><br>👯 I’m looking to collaborate on  <br>Open-source Front-End, React.js, and WordPress development projects  <br><br>🤝 I’m looking for help with  <br>Advanced React.js, Next.js patterns, and performance optimization  <br><br>🌱 I’m currently learning  <br>React.js, Next.js, Git & GitHub best practices, and Cloud Computing basics  <br><br>💬 Ask me about  <br>HTML, CSS, JavaScript, WordPress, React.js, and SEO  <br><br>⚡ Fun fact  <br>I love coding at night 🌙 and I’m a nature lover 🌿<br>
 
 
